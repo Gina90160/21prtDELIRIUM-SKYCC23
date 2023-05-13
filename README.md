@@ -13,7 +13,7 @@
  
 
 
- - ㅡmain.py ; SPAGHETTI Splitter
+ - main.py ; SPAGHETTI Splitter
 	
 		| Modulate Single File Code (Mostly AI-Generated)
 	
